@@ -1,0 +1,25 @@
+{
+  "name": "confirm-data",
+  "version": "1.0.0",
+  "description": "This package is for confirming data that will take arguments to verify its value and type.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musulton/confirm-data.git"
+  },
+  "keywords": [
+    "confirm-data"
+  ],
+  "author": "Muhammad Sulton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/musulton/confirm-data/issues"
+  },
+  "homepage": "https://github.com/musulton/confirm-data#readme",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
